@@ -4,4 +4,4 @@
 */.~lock*
 /dist/
 /django_bootstrap_italia.egg-info/
-MANIFEST.in
+/build/
